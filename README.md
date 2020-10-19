@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**gagaspbahar/gagaspbahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 My name is Gagas Praharsa Bahar, someone who aspires to be a developer in the future. I am currently studying at Bandung Institute of Technology, majoring in (hopefully) Information systems.
 I'm currently beginning to learn the basics of programming and getting the hang of Python, C, and C++. IT was always my passion in my life and i aspire to be a professional in this field.
